@@ -57,7 +57,7 @@ Este projeto é composto de 3 partes distintas:
 
 ## 🚀 Como utilizar
 
-💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja em execução para funcionar.
+💡 Tanto o Frontend Web quanto o Mobile precisam que o Backend esteja em execução para funcionar.
 
 ### Pré-requisitos
 
@@ -140,7 +140,7 @@ Entre no diretório do Frontend Mobile
 Instale as dependências necessárias
 
 ```bash
-  expo install
+  npm install
 ```
 
 Inicie a aplicação
