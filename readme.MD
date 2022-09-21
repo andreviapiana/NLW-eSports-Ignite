@@ -28,7 +28,7 @@ A seguir são exibidos os layouts da aplicação:
 ---
   
 ## Mobile
-  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nlw-esports-ignite/main/screenshot3.jpg" width="100%">
+  ![0](https://user-images.githubusercontent.com/106932234/191531096-b82b4a51-bf43-4534-9a2d-6167ec32ae26.png)
 
   ___
 
