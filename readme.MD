@@ -67,7 +67,7 @@ Este projeto é composto de 3 partes distintas:
 
 
 ---
-#### 🎲 Executando o Backend (server)
+#### :gear: Executando o Backend (server)
 
 Clone o projeto para o local desejado em seu computador.
 
@@ -101,7 +101,7 @@ Confira se o servidor está em execução. Você deverá receber a seguinte mens
 
 
 ---
-#### 🧭 Executando o Frontend Web (web)
+#### :computer: Executando o Frontend Web (web)
 
 Entre no diretório do Frontend Web
 
@@ -129,7 +129,7 @@ Confira se o servidor está em execução e abra ele no seu navegador preferido.
 
 
 ---
-#### 🧭 Executando o Frontend Mobile (mobile)
+#### :calling: Executando o Frontend Mobile (mobile)
 
 Entre no diretório do Frontend Mobile
 
